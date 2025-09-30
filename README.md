@@ -18,10 +18,6 @@ You can check with:
      pip install pygame
 
 
-3. Clone this repository:
-     git clone https://github.com/your-username/pong-game.git
-cd pong-game
-
 Run the game:
   python main.py
 
